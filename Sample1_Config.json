@@ -1,0 +1,18 @@
+{
+    "Client": "Sample1",
+    "Config":
+    {
+        "LocationFile":
+        {
+            "Phrase": "LOCATION",
+            "Archive": true,
+            "Share": true
+        },
+        "PayCodeFile":
+        {
+            "Phrase": "PAYCODE",
+            "Archive": true,
+            "Share": true
+        }
+    }
+}
